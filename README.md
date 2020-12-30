@@ -11,7 +11,7 @@ This is a Node.js [Shutterstock API][v2] client.
 Install
 
 ``` console
-$ npm install shutterstock --save
+$ npm install Batoch/node-shutterstock --save
 ```
 
 Example
