@@ -1,10 +1,10 @@
 {
   "name": "shutterstock",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "Shutterstock API client",
   "main": "./lib",
   "dependencies": {
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.19",
     "papi": "^0.27.0"
   },
   "devDependencies": {
@@ -28,7 +28,7 @@
     "api",
     "shutterstock"
   ],
-  "repository": "https://github.com/silas/node-shutterstock.git",
+  "repository": "https://github.com/Batoch/node-shutterstock",
   "author": "Silas Sewell <silas@sewell.org>",
   "license": "MIT"
 }
